@@ -1,0 +1,34 @@
+#searchText {
+  width: 330px;
+}
+
+.well {
+  width: 400px;
+}
+
+body {
+  margin: 20px;
+}
+
+#random {
+  margin-top: 20px;
+}
+
+li {
+  border-width: 0 1px 1px 1px;
+  border-color:  silver;
+  border-style: solid;
+  padding: 10px;
+}
+
+li:first-child {
+  border-top-width: 1px;
+}
+
+li:nth-child(odd) {
+  background-color: #eee;
+}
+
+ul {
+  list-style-type: none;
+}
